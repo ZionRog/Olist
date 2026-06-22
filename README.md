@@ -8,7 +8,7 @@ This project tests a simple business question: **does delivery lateness lower cu
 
 ## Average Review Score by Delivery Status
 
-images/ReviewVsDel.png
+![Average review score by delivery lateness](images/ReviewVsDel.png)
 
 ## Methodology
 
